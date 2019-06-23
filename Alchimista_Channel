@@ -1,0 +1,17 @@
+{
+  "channel_name": "Alchimista Channel",
+  "fanart": "https://raw.githubusercontent.com/cesarebattisti/community/master/photo_2016-09-21_20-59-09.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/cesarebattisti/community/master/photo_2016-09-21_20-59-09.jpg",
+  "menu": [
+    {
+      "title": "Film",
+      "link": "https://raw.githubusercontent.com/cesarebattisti/community/master/movie.json",
+      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
+    },
+    {
+      "title": "TV",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/tv.json",
+      "thumbnail": "https://raw.githubusercontent.com/32Dexter/DexterRepo/master/Dexter%20Channel/images/movies.png"
+    }
+  ]
+}
